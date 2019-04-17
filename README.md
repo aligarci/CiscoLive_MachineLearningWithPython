@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# CiscoLive_MachineLearningWithPython
+# CiscoLive_MLWithPython
 Demo presented in Cisco Live 2019 session. Session DEVNET-2163
 https://ciscolive.cisco.com/on-demand-library/?search=machine%20learning%20with%20python#/session/15321184311620015HAy
 
